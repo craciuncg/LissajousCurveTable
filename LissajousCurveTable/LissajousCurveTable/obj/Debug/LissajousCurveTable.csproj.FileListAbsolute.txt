@@ -1,0 +1,9 @@
+C:\Users\craci\Source\Repos\Sandpiles\LissajousCurveTable\LissajousCurveTable\bin\Debug\LissajousCurveTable.exe.config
+C:\Users\craci\Source\Repos\Sandpiles\LissajousCurveTable\LissajousCurveTable\bin\Debug\LissajousCurveTable.exe
+C:\Users\craci\Source\Repos\Sandpiles\LissajousCurveTable\LissajousCurveTable\bin\Debug\LissajousCurveTable.pdb
+C:\Users\craci\Source\Repos\Sandpiles\LissajousCurveTable\LissajousCurveTable\obj\Debug\LissajousCurveTable.csprojResolveAssemblyReference.cache
+C:\Users\craci\Source\Repos\Sandpiles\LissajousCurveTable\LissajousCurveTable\obj\Debug\LissajousCurveTable.Form1.resources
+C:\Users\craci\Source\Repos\Sandpiles\LissajousCurveTable\LissajousCurveTable\obj\Debug\LissajousCurveTable.Properties.Resources.resources
+C:\Users\craci\Source\Repos\Sandpiles\LissajousCurveTable\LissajousCurveTable\obj\Debug\LissajousCurveTable.csproj.GenerateResource.Cache
+C:\Users\craci\Source\Repos\Sandpiles\LissajousCurveTable\LissajousCurveTable\obj\Debug\LissajousCurveTable.exe
+C:\Users\craci\Source\Repos\Sandpiles\LissajousCurveTable\LissajousCurveTable\obj\Debug\LissajousCurveTable.pdb
